@@ -32,7 +32,7 @@
   "Instagram": {
     "errorMsg": "Sorry, this page isn't available.",
     "errorType": "message",
-    "url": "https://www.instagram.com/@{}",
+    "url": "https://www.instagram.com/{}",
     "urlMain": "https://www.instagram.com/",
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
